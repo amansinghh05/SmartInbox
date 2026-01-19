@@ -33,7 +33,7 @@ It combines everyday email features with intelligent tools powered by the **Groq
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/amansinghh05/SmartInbox.git
-cd SmartInbox
+```
 
 ### 2. Create a Virtual Environment & Install Dependencies
 
